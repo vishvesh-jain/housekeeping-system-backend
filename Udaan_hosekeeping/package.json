@@ -1,0 +1,18 @@
+{
+  "name": "Housekeeping_Udaan_SRM",
+  "version": "1.0.0",
+  "description": "REST API for Housekeeping for Udaan",
+  "main": "index.js",
+  "scripts": "",
+  "keywords": [
+    "Udaan",
+    "REST-API",
+    "Javascript"
+  ],
+  "author": "Vishvesh Jain",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
